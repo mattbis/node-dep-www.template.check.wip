@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+  },
+  "scripts": {
+    "check:local":"",
+    "g:u:main": "",
+    "g:fork:test": ""
+  }
+}
